@@ -1,5 +1,5 @@
 [package]
-name = "netsnmp-sys"
+name = "netsnmp-sys-nocrypto"
 description = "Rust FFI bindings to Net-SNMP with no crypto dep"
 version = "0.1.2"
 authors = ["Hroi Sigurdsson <hroi@asdf.dk>", "Sergiy S. <div@altertech.com>"]
