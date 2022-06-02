@@ -18,5 +18,4 @@ fn main() {
     println!("cargo:rustc-link-lib=dylib=m");
     println!("cargo:rustc-link-lib=dylib=netsnmp");
     println!("cargo:rustc-link-lib=dylib=netsnmpagent");
-    println!("cargo:rustc-link-lib=dylib=crypto");
 }
